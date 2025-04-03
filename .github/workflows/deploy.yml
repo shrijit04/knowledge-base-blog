@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
 
 jobs:
   deploy:
@@ -13,28 +12,20 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: true
+          fetch-depth: 1
 
-      - name: Checkout destination
-        uses: actions/checkout@v3
-        if: github.ref == 'refs/heads/main'
+      - name: Install Hugo
+        run: |
+          HUGO_VERSION=0.145.0
+          wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
+          tar -xzf hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
+          sudo mv hugo /usr/local/bin/
+
+      - name: Build Site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          ref: gh-pages
-          path: built-site
-
-      - name: Setup Hugo
-        run: |
-          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.145.0/hugo_extended_v0.145.0_linux-amd64.tar.gz'
-          tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo                    
-      - name: Build
-        run: ${RUNNER_TEMP}/hugo
-
-      - name: Deploy
-        if: github.ref == 'refs/heads/main'
-        run: |
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
-          cd ${GITHUB_WORKSPACE}/built-site
-          git add .
-          git config user.name 'keanteng' # change to your username
-          git config user.email 'u2004763@siswa.um.edu.my' # change to your email
-          git commit -m 'Updated site'
-          git push                    
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

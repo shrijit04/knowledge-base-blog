@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Knowledge Base</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Knowledge Base</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Apr 2025 19:27:40 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mangoes</title>
+      <link>//localhost:1313/posts/2025-04-03-mangoes/</link>
+      <pubDate>Thu, 03 Apr 2025 19:27:40 +0000</pubDate>
+      <guid>//localhost:1313/posts/2025-04-03-mangoes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt;
+India is one of the largest producers of mangoes in the world, accounting for over 15% of global production. The country produces a wide variety of mango species, including Alphonso, Kesar, and Langra.&lt;/p&gt;
+&lt;h3 id=&#34;production&#34;&gt;Production:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Area Under Mango Cultivation:&lt;/strong&gt; According to the Ministry of Agriculture and Farmers Welfare, Government of India, the total area under mango cultivation in India was 9.53 lakh hectares in 2022-23.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mango Production:&lt;/strong&gt; India produced over 14.32 million tonnes of mangoes during the 2022-23 season, with a value of over ₹43,000 crore (approximately $5.8 billion USD).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Varieties:&lt;/strong&gt; The country produces a wide variety of mango species, including Alphonso, Kesar, and Langra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;exports&#34;&gt;Exports:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Export Market:&lt;/strong&gt; The majority of India&amp;rsquo;s mango exports go to countries such as the United States, the United Kingdom, and the European Union.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geographical Indication (GI):&lt;/strong&gt; In 2020, India started exporting mangoes from the state of Maharashtra under the &amp;lsquo;Geographical Indication&amp;rsquo; tag for its unique Alphonso variety. This move was aimed at promoting Indian mangoes globally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Export Value:&lt;/strong&gt; In 2022, India&amp;rsquo;s mango exports were valued at ₹17,800 crore (approximately $2.4 billion USD), with the majority of the export earnings coming from the states of Maharashtra, Gujarat, and Uttar Pradesh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;initiatives-by-the-government&#34;&gt;Initiatives by the Government:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Training and Capacity-Building Programs for Farmers:&lt;/strong&gt; The Indian government has introduced training and capacity-building programs for farmers to enhance their mango cultivation skills.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cold Storage Facilities:&lt;/strong&gt; The government has set up cold storage facilities to ensure that mangoes are stored at optimal temperatures, reducing spoilage and increasing export value.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National Platform for Promoting Mangoes:&lt;/strong&gt; The government has created a national platform to promote Indian mangoes globally, including a website and social media channels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;future-plans&#34;&gt;Future Plans:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Increasing Share in Total Fruit Exports:&lt;/strong&gt; The Indian government has set a target to increase the share of mango exports in the country&amp;rsquo;s total fruit exports from 2% in 2020-21 to 10% by 2024-25.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cold Chain Development:&lt;/strong&gt; As part of its efforts to increase mango exports, the Indian government is also exploring opportunities for cold chain development in the country, with a focus on setting up modern refrigerated warehouses and logistics facilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;promoting-domestic-consumption&#34;&gt;Promoting Domestic Consumption:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mango Festivals:&lt;/strong&gt; The Indian government has organized &amp;lsquo;Mango Festivals&amp;rsquo; across the country to promote domestic consumption of mangoes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subsidies for Transportation and Storage:&lt;/strong&gt; The government provides subsidies for transportation and storage of mangoes to ensure that they reach consumers at optimal freshness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h3&gt;
+&lt;p&gt;India&amp;rsquo;s mango export industry is growing rapidly, with a target of increasing its share in total fruit exports. The government has introduced various initiatives to promote mango cultivation, cold chain development, and domestic consumption. With these efforts, India aims to become one of the world&amp;rsquo;s leading exporters of mangoes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Blog</title>
+      <link>//localhost:1313/posts/first-blog/</link>
+      <pubDate>Wed, 02 Apr 2025 17:59:33 -0400</pubDate>
+      <guid>//localhost:1313/posts/first-blog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

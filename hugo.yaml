@@ -1,0 +1,47 @@
+baseURL: "https://shrijit04.github.io/knowledge-base-blog/"
+languageCode: en-us
+title: Knowledge Base
+theme: PaperMod
+
+menu:
+  main:
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 10
+  - identifier: tags
+    name: Tags
+    url: /tags/
+    weight: 20
+  - identifier: categories
+    name: Categories
+    url: /categories/
+    weight: 30
+  - identifier: archives
+    name: Archives
+    url: /archives/
+    weight: 40
+  
+
+params:
+  profileMode:
+    enabled: true
+    title: "Welcome to My World" # optional default will be site title
+    subtitle: "I am an enigneer by trait and product manager by profession. I write about technology, personal finance, and whatever else I find interesting." 
+    imageUrl: "/shrijit-blog.jpeg" # optional
+    imageTitle: "a man standing in snowy mountian field" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blog
+        url: "/blog/"
+      - name: Tags
+        url: "/tags/"
+      
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/shrijit-patel/"
+    - name: "github"
+      url: "https://github.com/shrijit04"
+

@@ -1,0 +1,20 @@
+.DS_Store
+*/.DS_Store
+.frontmatter
+
+.hugo_build.lock
+frontmatter.json
+
+# Editor/IDE Files
+.vscode/
+*.code-workspace
+
+# Log Files
+*.log
+
+# Temporary Files
+*~
+*.swp
+
+# Node Modules
+node_modules/

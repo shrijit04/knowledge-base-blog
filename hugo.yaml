@@ -28,15 +28,15 @@ params:
     enabled: true
     title: "Welcome to My World" # optional default will be site title
     subtitle: "I am an enigneer by trait and product manager by profession. I write about technology, personal finance, and whatever else I find interesting." 
-    imageUrl: "/shrijit-blog.jpeg" # optional
+    imageUrl: "/knowledge-base-blog/shrijit-blog.jpeg" # optional
     imageTitle: "a man standing in snowy mountian field" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
       - name: Blog
-        url: "/blog/"
+        url: /knowledge-base-blog/posts/
       - name: Tags
-        url: "/tags/"
+        url: /knowledge-base-blog/tags/
       
 
   socialIcons: # optional

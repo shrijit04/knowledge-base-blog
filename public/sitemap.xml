@@ -2,42 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/2025-04-03-exploring-the-insights-of-my-second-post/</loc>
-    <lastmod>2025-04-03T21:24:28+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-04-03T21:24:28+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-04-03T21:24:28+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/agricultural-initiatives/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/agricultural-initiatives/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/agriculture/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/categories/agriculture/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/categories/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/indian-mangoes/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/indian-mangoes/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mango-exports/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mango-import/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/mango-exports/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2025-04-03-mangoes/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/mango-import/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/posts/2025-04-03-mangoes/</loc>
     <lastmod>2025-04-03T19:27:40+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/first-blog/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/posts/</loc>
+    <lastmod>2025-04-03T19:27:40+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/</loc>
+    <lastmod>2025-04-03T19:27:40+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/posts/first-blog/</loc>
     <lastmod>2025-04-02T17:59:33-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/knowledge-base-blog/archives/</loc>
   </url>
 </urlset>

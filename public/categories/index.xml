@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Knowledge Base</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 22:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 03:49:59 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/knowledge-base-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investing</title>
+      <link>http://localhost:1313/knowledge-base-blog/categories/investing/</link>
+      <pubDate>Sat, 12 Apr 2025 03:49:59 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge-base-blog/categories/investing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/knowledge-base-blog/categories/learning/</link>
+      <pubDate>Sat, 12 Apr 2025 03:49:59 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge-base-blog/categories/learning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Investment Opportunity</title>
       <link>http://localhost:1313/knowledge-base-blog/categories/investment-opportunity/</link>

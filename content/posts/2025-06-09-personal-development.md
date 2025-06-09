@@ -2,7 +2,8 @@
 title: "Transform Your Life: The Power of Personal Development"
 description: Unlock your potential and transform your life through personal development. Discover actionable steps to attract success and happiness today!
 date: 2025-06-09T18:25:17.074Z
-preview: /img/personal-development-hero.jpg
+cover:
+    image: /img/personal-development-hero.jpg
 draft: false
 tags:
     - goal setting

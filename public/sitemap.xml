@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/knowledge-base-blog/posts/2025-04-12-analysis-of-multibagger-companies-in-last-decade/</loc>
-    <lastmod>2025-04-12T03:49:59+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/knowledge-base-blog/categories/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/goal-setting/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/mindfulness/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/categories/personal-development/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/personal-development/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/categories/personal-growth/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/personal-growth/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/posts/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/self-improvement/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/tags/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/posts/2025-06-09-personal-development/</loc>
+    <lastmod>2025-06-09T18:25:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-base-blog/posts/2025-04-12-analysis-of-multibagger-companies-in-last-decade/</loc>
     <lastmod>2025-04-12T03:49:59+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledge-base-blog/categories/investing/</loc>
@@ -14,19 +47,10 @@
     <loc>http://localhost:1313/knowledge-base-blog/tags/investment-analysis/</loc>
     <lastmod>2025-04-12T03:49:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledge-base-blog/</loc>
-    <lastmod>2025-04-12T03:49:59+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/knowledge-base-blog/categories/learning/</loc>
     <lastmod>2025-04-12T03:49:59+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledge-base-blog/tags/multi-bagger-stocks/</loc>
-    <lastmod>2025-04-12T03:49:59+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/knowledge-base-blog/posts/</loc>
-    <lastmod>2025-04-12T03:49:59+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/knowledge-base-blog/tags/</loc>
     <lastmod>2025-04-12T03:49:59+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledge-base-blog/categories/investment-opportunity/</loc>

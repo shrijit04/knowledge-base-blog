@@ -1,0 +1,45 @@
+<div style="
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  margin: 1rem 0;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease;
+">
+  <details>
+    <summary style="
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 1.25rem;
+      cursor: pointer;
+      user-select: none;
+      gap: 1rem;
+    ">
+      <div style="display: flex; align-items: baseline; gap: 0.75rem; flex-wrap: wrap;">
+        <span style="font-weight: 600; font-size: 1rem;">{{ .Get "name" }}</span>
+        <span style="font-size: 0.875rem; color: #6b7280; font-style: italic;">{{ .Get "tagline" }}</span>
+      </div>
+      <span class="principle-chevron" style="
+        font-size: 0.75rem;
+        color: #9ca3af;
+        flex-shrink: 0;
+        transition: transform 0.2s ease;
+      ">▼</span>
+    </summary>
+    <div style="
+      padding: 0 1.25rem 1.25rem 1.25rem;
+      border-top: 1px solid #f3f4f6;
+    ">
+      <p style="margin: 0.75rem 0 0.5rem; font-size: 0.9375rem; line-height: 1.6;">{{ .Get "explanation" }}</p>
+      <p style="margin: 0.75rem 0 0; font-size: 0.875rem; color: #6b7280;">
+        <strong style="color: #374151;">Relevant when:</strong> {{ .Get "relevance" }}
+      </p>
+    </div>
+  </details>
+</div>
+
+<style>
+  details[open] .principle-chevron { transform: rotate(180deg); }
+  details summary::-webkit-details-marker { display: none; }
+</style>

@@ -24,6 +24,10 @@ menu:
   
 
 params:
+  author:
+    name: Shrijit Patel
+    email: shrijit@umich.edu
+
   profileMode:
     enabled: true
     title: "Welcome to My World" # optional default will be site title

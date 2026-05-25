@@ -24,9 +24,9 @@ A running list of frameworks I lean on when sizing up a business — collected h
 
 {{< framework
   name="The Margin Framework"
-  tagline="Profitability lives in layers — and only some of them compound."
-  explanation="A business's margin profile breaks into three layers. Layer 1 is core operating leverage (gross/operating margins that scale with revenue). Layer 2 is pricing power and value-added services (premium pricing, high-margin upsells — think Mastercard, Apple). Layer 3 is asset-light scalability — 'floating DNA' businesses that grow revenue globally without proportional capex, debt, or dilution. The deeper a business reaches into Layer 3, the longer its compounding runway."
-  relevance="Diagnosing business quality, separating durable compounders from one-time growth stories, predicting which margins will expand vs. mean-revert."
+  tagline="Fish where the fish are — margins tell you which pond to be in before you pick a single stock."
+  explanation="An 8-layer system for reading margins properly: screen industries first (Layer 1), find the margin gorilla within it (Layer 2), track how margins move over time (Layer 3), check the gross-to-operating gap as a management quality test (Layer 4), pair margins with ROCE (Layer 5), stress-test whether high margins come from a moat or a tailwind (Layer 6), see if they hold through a cycle (Layer 7), and match the profile to your investing horizon (Layer 8)."
+  relevance="Stock screening, business quality assessment, moat analysis, and filtering out 90% of market noise before you touch a PE ratio."
   link="/posts/frameworks/margin-framework/"
 >}}
 

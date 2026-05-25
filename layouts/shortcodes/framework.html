@@ -37,7 +37,7 @@
       </p>
       {{ with .Get "link" }}
       <p style="margin: 1rem 0 0; font-size: 0.9375rem;">
-        <a href="{{ . | relURL }}" style="
+        <a href="{{ strings.TrimPrefix "/" . | relURL }}" style="
           color: #2563eb;
           text-decoration: none;
           font-weight: 500;

@@ -30,8 +30,3 @@ A running list of frameworks I lean on when sizing up a business — collected h
   link="/posts/frameworks/margin-framework/"
 >}}
 
----
-
-### How they connect
-
-The Margin Framework feeds the Two Engine Framework. Improving margins and pricing power earn a higher multiple (PE engine), and the same margin expansion supercharges earnings (EPS engine). When both layers move at once, you get the exponential compounding the market only rewards a handful of businesses with each decade.

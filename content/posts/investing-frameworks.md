@@ -30,3 +30,11 @@ A running list of frameworks I lean on when sizing up a business — collected h
   link="/posts/frameworks/margin-framework/"
 >}}
 
+{{< framework
+  name="The Compounding Ladder"
+  tagline="A broken rung voids every rung below it — run five gates before you touch the price."
+  explanation="One causal chain, five gates: Real (are the numbers trustworthy?), Engine (does ROIC beat the cost of capital?), Moat (how many years does that edge hold?), Conduit (does the cash actually reach shareholders?), Price (are you prepaying for more years of perfection than you can defend?). The hub of every gate is ROIC. Four solid yeses on the business and a defensible price is the whole game. Memory hook: Real Engines Move Cash Profitably."
+  relevance="First-principles stock evaluation, separating business quality from investment quality, knowing exactly what a high multiple is charging you for."
+  link="/posts/frameworks/compounding-ladder/"
+>}}
+
